@@ -46,3 +46,4 @@ for pwd in passwords:
         break
 
 driver.quit()
+sys.exit(1)
